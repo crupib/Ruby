@@ -14,3 +14,11 @@ value = 0
 if value.zero? then
 	puts "value is zero dick head!"
 end
+str = "Hello Ruby"
+a = str.index("Ruby")
+print "Ruby index number of str Hello Ruby " , a , "\n" 
+x = 1
+while x < 11
+   print x, " Bill Crupi\n"
+   x = x + 1
+end
