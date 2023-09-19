@@ -1,8 +1,6 @@
-1 The quick brown fox jumped over the lazy dog's back,
-2 The quick brown fox jumped over the lazy dog's back,
-3 The quick brown fox jumped over the lazy dog's back,
-4 The quick brown fox jumped over the lazy dog's back,
-5 The quick brown fox jumped over the lazy dog's back,
-6 The quick brown fox jumped over the lazy dog's back,
-7 The quick brown fox jumped over the lazy dog's back,
-8 The quick brown fox jumped over the lazy dog's back,
+Username; Identifier;First name;Last name
+booker12;9012;Rachel;Booker
+grey07;2070;Laura;Grey
+johnson81;4081;Craig;Johnson
+jenkins46;9346;Mary;Jenkins
+smith79;5079;Jamie;Smith
